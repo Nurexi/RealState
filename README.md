@@ -22,10 +22,6 @@ It offers a sleek, interactive interface for browsing properties, viewing detail
 * 🏢 **About Us Section** – Company story, achievements, and years of experience
 * 🔄 **Step-by-Step Process** – Clear timeline explaining how Althaus works
 * 🏘️ **Property Showcase Carousel** – Categories like Luxury, Residential, and Featured listings
-* 🛡️ **Insurance Services** – Highlights of coverage and benefits
-* ⭐ **Why Choose Us Section** – Detailed feature cards with icons and call-to-action
-* 📋 **FAQs** – Expandable Q\&A with categorized filtering
-* 📞 **Call-to-Action Buttons** – Easy contact and service requests 
 * 🎨 **Smooth Animations** – Scroll-triggered, hover effects, and subtle micro-interactions
 
 ---

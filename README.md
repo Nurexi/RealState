@@ -1,4 +1,4 @@
-# 🏠 Althaus – Professional Real Estate Management Platform
+ # 🏠 Althaus – Professional Real Estate Management Platform
 
 **Althaus** is a modern, fully responsive real estate management platform built entirely with **HTML**, **CSS**, and **JavaScript**.
 It offers a sleek, interactive interface for browsing properties, viewing details, exploring services, and engaging with a professional real estate team all without a backend.

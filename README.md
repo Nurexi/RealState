@@ -25,7 +25,7 @@ It offers a sleek, interactive interface for browsing properties, viewing detail
 * 🛡️ **Insurance Services** – Highlights of coverage and benefits
 * ⭐ **Why Choose Us Section** – Detailed feature cards with icons and call-to-action
 * 📋 **FAQs** – Expandable Q\&A with categorized filtering
-* 📞 **Call-to-Action Buttons** – Easy contact and service requests
+* 📞 **Call-to-Action Buttons** – Easy contact and service requests 
 * 🎨 **Smooth Animations** – Scroll-triggered, hover effects, and subtle micro-interactions
 
 ---
